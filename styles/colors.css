@@ -1,17 +1,17 @@
 
 :root {
-    --color-colors-primary-primary-1-00: #ffffff; 
+    --color-primary-00: #ffffff; 
     --color-colors-primary-primary-1-100: #f0fff9; 
-    --color-colors-primary-primary-1-100: #cfffed; 
-    --color-colors-primary-primary-1-200: #afffe0; 
-    --color-colors-primary-primary-1-300: #8effd3; 
-    --color-colors-primary-primary-1-400: #6dffc7; 
-    --color-colors-primary-primary-1-500: #56e3ad; 
-    --color-colors-primary-primary-1-600-base: #3fc18f; 
-    --color-colors-primary-primary-1-700: #2c9f73; 
-    --color-colors-primary-primary-1-800: #1c7d58; 
+    --color-primary-100: #cfffed; 
+    --color-primary-200: #afffe0; 
+    --color-primary-300: #8effd3; 
+    --color-primary-400: #6dffc7; 
+    --color-primary-500: #56e3ad; 
+    --color-primary-600-base: #3fc18f; 
+    --color-primary-700: #2c9f73; 
+    --color-primary-800: #1c7d58; 
     --color-colors-accents-accent-1-00: #ffffff; 
-    --color-colors-primary-primary-1-900: #105b3e; 
+    --color-primary-900: #105b3e; 
     --color-colors-accents-accent-1-100: #f8ffff; 
     --color-colors-accents-accent-1-100: #dcffff; 
     --color-colors-accents-accent-1-200: #c0ffff; 
@@ -100,6 +100,17 @@
     --color-colors-accents-accent-4-700: #a91944; 
     --color-colors-accents-accent-4-800: #870d31; 
     --color-colors-accents-accent-4-900: #650421; 
+    --color-colors-functionals-warning-turkoise: #ffffff; 
+    --color-hotpink-t00: #ffffff; 
+    --color-hotpink-t100: #ffeef9; 
+    --color-hotpink-t200: #ffdaf3; 
+    --color-hotpink-t300: #ffcaed; 
+    --color-hotpink-t400: #ffb7e7; 
+    --color-hotpink-t500: #ff86d7; 
+    --color-hotpink-t600-base: #ff82d5; 
+    --color-hotpink-t700: #ff4dc4; 
+    --color-hotpink-t800: #ff18b2; 
+    --color-hotpink-t900: #ff01aa; 
     --color-text-states-link: #2c9f73; 
     --color-text-states-link-hover: #56e3ad; 
     --color-text-states-visited: #1c7d58; 
@@ -155,4 +166,6 @@
     --color-surface-neutrals-neutrals-10: #000000; 
     --color-text-inverted: #ffffff; 
     --color-text-primary: #3fc18f; 
+    --color-text-text-body: #ff01aa; 
+    --color-color: #ff01aa; 
 }
