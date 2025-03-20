@@ -1,8 +1,17 @@
 module.exports = {
     'colors': {
         'color': '#ff01aa', 
-        'colors-primary-primary-1': {
-            '100': '#f0fff9', 
+        'primary': {
+            '00': '#ffffff', 
+            '100': '#cfffed', 
+            '200': '#afffe0', 
+            '300': '#8effd3', 
+            '400': '#6dffc7', 
+            '500': '#56e3ad', 
+            '600-base': '#3fc18f', 
+            '700': '#2c9f73', 
+            '800': '#1c7d58', 
+            '900': '#105b3e', 
         },
         'colors-functionals-warning': {
             'turkoise': '#ffffff', 
@@ -112,17 +121,8 @@ module.exports = {
             '1000': '#000000', 
             '1000-50prct': '#2d2e3080', 
         },
-        'primary': {
-            '00': '#ffffff', 
-            '100': '#cfffed', 
-            '200': '#afffe0', 
-            '300': '#8effd3', 
-            '400': '#6dffc7', 
-            '500': '#56e3ad', 
-            '600-base': '#3fc18f', 
-            '700': '#2c9f73', 
-            '800': '#1c7d58', 
-            '900': '#105b3e', 
+        'colors-primary-primary-1': {
+            '100': '#f0fff9', 
         },
         'hotpink': {
             't00': '#ffffff', 
